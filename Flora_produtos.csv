@@ -1,0 +1,23 @@
+,id_produto,nome_produto,preco_produto,descricao,id_fornecedor,custos
+0,1,Rosa Vermelha ,10,Rosa vermelha de alta qualidade ,1233,4.56
+1,2,Rosa Branca ,12,Rosa branca elegante ,2331,3.12
+2,3,Lirio ,15,Lirio branco fresco ,3312,4.32
+3,4,Orquidea ,20,Orquidea roxa vibrante ,1444,3.24
+4,5,Girassol ,8,Girassol grande e brilhante ,5123,4.56
+5,6,Tulipa ,11,Tulipa vermelha encantadora ,9012,3.24
+6,7,Margarida ,7,Margarida branca delicada ,7712,4.32
+7,8,Crisantemo ,9,Crisantemo amarelo atraente ,1314,3.11
+8,9,Dalia ,14,Dalia rosa deslumbrante ,1233,3.24
+9,10,Azaleia ,16,Azaleia vermelha vibrante ,2331,4.21
+10,11,Camelia ,18,Camelia rosa suave ,3312,4.32
+11,12,Hortensia ,13,Hortensia azul exuberante ,1444,4.21
+12,13,Narciso ,10,Narciso amarelo brilhante ,5123,4.56
+13,14,Peonia ,19,Peonia rosa romantica ,9012,2.5
+14,15,Zinia ,8,Zinia laranja vibrante ,7712,3.11
+15,16,Geranio ,12,Geranio vermelho robusto ,1314,3.12
+16,17,Begonia ,11,Begonia rosa delicada ,1233,4.56
+17,18,Petunia ,9,Petunia roxa encantadora ,2331,4.21
+18,19,Impatiens ,7,Impatiens rosa suave ,3312,3.24
+19,20,Verbena ,10,Verbena roxa vibrante ,1444,3.11
+20,21,Violeta ,6,Violeta azul delicada ,5123,3.12
+21,22,Miosotis ,8,Miosotis azul claro encantador ,9012,4.32
