@@ -7,6 +7,13 @@ Neste repositório está a prática aprofundada do projeto iniciado no Bootcamp 
 
 ![Diagrama FLORA-2](https://github.com/anibaltanganelli/Flora/assets/108743062/f31636b5-c6ee-400c-998c-42cd8b65b74e)
 
+
+Dashboard:
+
+[Dashboard Vendas](https://github.com/anibaltanganelli/Flora/blob/main/vendas.png)
+
+
+
 Conclusões
 
 
