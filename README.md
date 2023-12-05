@@ -10,13 +10,13 @@ Neste repositório está a prática aprofundada do projeto iniciado no Bootcamp 
 
 Dashboard:
 
-[Dashboard Vendas](https://github.com/anibaltanganelli/Flora/blob/main/vendas.png)
+![Dashboard Vendas](https://github.com/anibaltanganelli/Flora/blob/main/vendas.png)
 
-[Dashboard Produtos](https://github.com/anibaltanganelli/Flora/blob/main/Produtos.png)
+![Dashboard Produtos](https://github.com/anibaltanganelli/Flora/blob/main/Produtos.png)
 
-[Dashboard Clientes](https://github.com/anibaltanganelli/Flora/blob/main/Clientes.png)
+![Dashboard Clientes](https://github.com/anibaltanganelli/Flora/blob/main/Clientes.png)
 
-[Dashboard Pagamentos](https://github.com/anibaltanganelli/Flora/blob/main/Pagamentos.png)
+![Dashboard Pagamentos](https://github.com/anibaltanganelli/Flora/blob/main/Pagamentos.png)
 
 
 
