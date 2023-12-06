@@ -1,0 +1,45 @@
+,id_cliente,nome_cliente,data_nascimento,sexo,endereco,cidade,CPF,email,telefone,empreendimento
+0,1,  João Silva ,1980-01-01,M ,Rua das Flores,Sao Paulo,123.456.789-00 ,joao.silva@email.com , 11  12345-6789  ,marketplace
+1,2,  Maria Santos ,1985-02-02,F ,Avenida do Sol,Limeira,234.567.890-11 ,maria.santos@email.com , 11  23456-7890  ,decoração
+2,3,  Pedro Oliveira ,1990-03-03,M ,Travessa da Lua,Campinas,345.678.901-22 ,pedro.oliveira@email.com , 11  34567-8901  ,buffet
+3,4,  Ana Pereira ,1995-04-04,F ,Beco do Vento,Sumaré,456.789.012-33 ,ana.pereira@email.com , 11  45678-9012  ,cerimonialista
+4,5,  Lucas Costa ,2000-05-05,M ,Estrada da Chuva,Santo Andre,567.890.123-44 ,lucas.costa@email.com , 11  56789-0123  ,igreja
+5,6,  Julia Mendes ,2005-06-06,F ,Alameda do Trovão,Campinas,678.901.234-55 ,julia.mendes@email.com , 11  67890-1234  ,cerimonialista
+6,7,  Gabriel Dias ,2010-07-07,M ,Praça do Relâmpago,Sumaré,789.012.345-66 ,gabriel.dias@email.com , 11  78901-2345  ,floricultura
+7,8,  Laura Rocha ,2015-08-08,F ,Largo do Furacão,Americana,890.123.456-77 ,laura.rocha@email.com , 11  89012-3456  ,igreja
+8,9,  Rafael Almeida ,2020-09-09,M ,Viela do Tufão,Sumaré,901.234.567-88 ,rafael.almeida@email.com , 11  90123-4567  ,autônomo
+9,10,  Beatriz Teixeira ,2021-10-10,F ,Rua do Ciclone,Sao Paulo,012.345.678-99 ,beatriz.teixeira@email.com , 11  01234-5678  ,decoração
+10,11,  Guilherme Souza ,2022-11-11,M ,Avenida do Tornado,Sao Paulo,123.456.789-00 ,guilherme.souza@email.com , 11  12345-6789  ,loja de presentes
+11,12,  Carolina Ribeiro ,2023-12-12,F ,Travessa do Vendaval,Sao Paulo,234.567.890-11 ,carolina.ribeira@email.com , 11  23456-7890  ,decoração
+12,13,  Felipe Pinto ,2024-01-13,M ,Beco do Furacão,Americana,345.678.901-22 ,felipe.pinto@email.com , 11  34567-8901  ,supermercado
+13,14,  Bruna Gomes ,2025-02-14,F ,Estrada do Ciclone,Campinas,456.789.012-33 ,bruna.gomes@email.com , 11  45678-9012  ,buffet
+14,15,  Mateus Lima ,2026-03-15,M ,Alameda do Tufão,Limeira,567.890.123-44 ,mateus.lima@email.com , 11  56789-0123  ,buffet
+15,16,  Isabela Martins ,2027-04-16,F ,Praça do Vendaval,Limeira,678.901.234-55 ,isabela.martins@email.com , 11  67890-1234  ,cerimonialista
+16,17,  Leonardo Fernandes ,2028-05-17,M ,Viela do Furacão,Campinas,789.012.345-66 ,leonardo.fernandes@email.com , 11  78901-2345  ,salão de festas
+17,18,  Camila Barbosa ,2029-06-18,F ,Rua do Ciclone,Sao Paulo,890.123.456-77 ,camila.barbosa@email.com , 11  89012-3456  ,decoração
+18,19,  Vinicius Cardoso ,2030-07-19,M ,Avenida do Tornado,Sumaré,901.234.567-88 ,vinicius.cardoso@email.com , 11  90123-4567  ,outros
+19,20,  Mariana Silva ,2031-08-20,F ,Travessa do Vendaval,Campinas,012.345.678-99 ,mariana.silva@email.com , 11  01234-5678  ,buffet
+20,21,  Eduardo Batista ,2032-09-21,M ,Beco do Furacão,Americana,123.456.789-00 ,eduardo.batista@email.com , 11  12345-6789  ,cerimonialista
+21,22,  Amanda Moreira ,2033-10-22,F ,Estrada do Ciclone,Sao Paulo,234.567.890-11 ,amanda.moreira@email.com , 11  23456-7890  ,salão de festas
+22,23,  Ana Silva ,1980-05-12,F ,Rua das Flores,Sao Paulo,123.456.789-01 ,ana.silva@email.com , 11  98765-4321  ,supermercado
+23,24,  Bruno Costa ,1990-10-25,M ,Av. Brasil,Campinas,234.567.890-12 ,bruno.costa@email.com , 11  97654-3210  ,buffet
+24,25,  Carla Dias ,1975-03-30,F ,Rua das Pedras,Americana,345.678.901-23 ,carla.dias@email.com , 11  96543-2109  ,cerimonialista
+25,26,  Diego Santos ,1985-07-15,M ,Av. Paulista,Americana,456.789.012-34 ,diego.santos@email.com , 11  95432-1098  ,buffet
+26,27,  Eliana Soares ,1992-12-05,F ,Rua das Estrelas,Limeira,567.890.123-45 ,eliana.soares@email.com , 11  94321-0987  ,floricultura
+27,28,  Felipe Rocha ,1978-06-20,M ,Av. Europa,Americana,678.901.234-56 ,felipe.rocha@email.com , 11  93210-9876  ,outros
+28,29,  Gisele Teixeira ,1982-09-10,F ,Rua do Sol,Campinas,789.012.345-67 ,gisele.teixeira@email.com , 11  92109-8765  ,marketplace
+29,30,  Henrique Lima ,1991-02-28,M ,Av. América,Campinas,890.123.456-78 ,henrique.lima@email.com , 11  91098-7654  ,marketplace
+30,31,  Irene Pereira ,1986-08-15,F ,Rua da Lua,Santo Andre,901.234.567-89 ,irene.pereira@email.com , 11  90987-6543  ,cerimonialista
+31,32,  João Oliveira ,1977-01-31,M ,Av. Ásia,Santo Andre,012.345.678-90 ,joao.oliveira@email.com , 11  89876-5432  ,floricultura
+32,33,  Karina Cardoso ,1990-11-30,F ,Rua do Mar,Limeira,123.456.789-10 ,karina.cardoso@email.com , 11  88765-4321  ,igreja
+33,34,  Lucas Souza ,1983-04-20,M ,Av. África,Limeira,234.567.890-21 ,lucas.souza@email.com , 11  87654-3210  ,floricultura
+34,35,  Mariana Ribeiro ,1979-07-10,F ,Rua do Rio,Sumaré,345.678.901-32 ,mariana.ribeiro@email.com , 11  86543-2109  ,buffet
+35,36,  Nelson Martins ,1988-12-25,M ,Av. Oceania,Santo Andre,456.789.012-43 ,nelson.martins@email.com , 11  85432-1098  ,floricultura
+36,37,  Patricia Fernandes ,1981-05-15,F ,Rua da Montanha,Sao Paulo,567.890.123-54 ,patricia.fernandes@email.com , 11  84321-0987  ,buffet
+37,38,  Roberto Almeida ,1976-10-05,M ,Av. Antártica,Americana,678.901.234-65 ,roberto.almeida@email.com , 11  83210-9876  ,decoração
+38,39,  Sandra Figueiredo ,1987-03-20,F ,Rua do Vale,Campinas,789.012.345-76 ,sandra.figueiredo@email.com , 11  82109-8765  ,outros
+39,40,  Tiago Pinto ,1984-06-10,M ,Av. Arctica,Americana,890.123.456-87 ,tiago.pinto@email.com , 11  81098-7654  ,marketplace
+40,41,  Viviane Araujo ,1993-09-30,F ,Rua da Floresta,Sumaré,901.234.567-98 ,viviane.araujo@email.com , 11  80987-6543  ,buffet
+41,42,  Xavier Cunha ,1977-02-25,M ,Av. Atlântica,Sao Paulo,012.345.678-09 ,xavier.cunha@email.com , 11  79876-5432  ,marketplace
+42,43,  Yasmin Gomes ,1989-08-15,F ,Rua do Campo,Santo Andre,123.456.789-01 ,yasmin.gomes@email.com , 11  78765-4321  ,loja de presentes
+43,44,  Zacarias Palmeira ,1980-01-05,M ,Av. Pacífica,Limeira,234.567.890-12 ,zacarias.palmeira@email.com , 11  77654-3210,decoração
