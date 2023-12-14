@@ -10,7 +10,7 @@ Neste repositório está a prática aprofundada do projeto iniciado no Bootcamp 
 
 Dashboard:
 
-![Dashboard Vendas](images/Pedidos.png)
+![Dashboard Vendas](images/vendas.png)
 
 ![Dashboard Produtos](images/Produtos.png)
 
