@@ -24,7 +24,7 @@ FROM flora_pagamentos
 WHERE Status = 'em aberto';
 
 
-#2. Quais são os boletos vencidos?
+#2. Quais são os clientes, valor e datas dos boletos vencidos?
 SELECT
 pgt.id_cliente as cliente,
 P.valor_total,
@@ -77,7 +77,7 @@ ON pedidos.id_produto = produtos.id_produto
 GROUP BY estacao, nome
 ORDER BY estacao, quantidade DESC;
 
-#6. Quais são os produtos mais vendidos mês a mês
+#6. Quais são os produtos mais vendidos mês a mês?
 
 SELECT
 MONTH(pe.data_pedido) mes,
